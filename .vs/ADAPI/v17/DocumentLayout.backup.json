@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\repos\\smgadapi-service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8DAF56-5A40-462F-BF84-73A0954554C5}|ADAPI\\ADAPI.csproj|d:\\source\\repos\\smgadapi-service\\adapi\\controllers\\adcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8DAF56-5A40-462F-BF84-73A0954554C5}|ADAPI\\ADAPI.csproj|solutionrelative:adapi\\controllers\\adcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8DAF56-5A40-462F-BF84-73A0954554C5}|ADAPI\\ADAPI.csproj|d:\\source\\repos\\smgadapi-service\\adapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8DAF56-5A40-462F-BF84-73A0954554C5}|ADAPI\\ADAPI.csproj|solutionrelative:adapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8DAF56-5A40-462F-BF84-73A0954554C5}|ADAPI\\ADAPI.csproj|d:\\source\\repos\\smgadapi-service\\adapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD8DAF56-5A40-462F-BF84-73A0954554C5}|ADAPI\\ADAPI.csproj|solutionrelative:adapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0D3225-878D-4817-95B6-D7EBE8C82D21}|ADAPI.Data\\ADAPI.Data.csproj|D:\\source\\repos\\smgadapi-service\\adapi.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C0D3225-878D-4817-95B6-D7EBE8C82D21}|ADAPI.Data\\ADAPI.Data.csproj|solutionrelative:adapi.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\source\\repos\\smgadapi-service\\ADAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ADAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\source\\repos\\smgadapi-service\\ADAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ADAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADkBAAAAAAAAAAAUwEwBAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:36:19.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ADController.cs",
+              "DocumentMoniker": "D:\\source\\repos\\smgadapi-service\\ADAPI\\Controllers\\ADController.cs",
+              "RelativeDocumentMoniker": "ADAPI\\Controllers\\ADController.cs",
+              "ToolTip": "D:\\source\\repos\\smgadapi-service\\ADAPI\\Controllers\\ADController.cs",
+              "RelativeToolTip": "ADAPI\\Controllers\\ADController.cs",
+              "ViewState": "AgIAADgBAAAAAAAAAAAawEwBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:16:53.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\source\\repos\\smgadapi-service\\ADAPI.Data\\App.config",
+              "RelativeDocumentMoniker": "ADAPI.Data\\App.config",
+              "ToolTip": "D:\\source\\repos\\smgadapi-service\\ADAPI.Data\\App.config",
+              "RelativeToolTip": "ADAPI.Data\\App.config",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-20T17:32:04.79Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\source\\repos\\smgadapi-service\\ADAPI\\Web.config",
+              "RelativeDocumentMoniker": "ADAPI\\Web.config",
+              "ToolTip": "D:\\source\\repos\\smgadapi-service\\ADAPI\\Web.config",
+              "RelativeToolTip": "ADAPI\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-05T14:14:47.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
